@@ -1,0 +1,11 @@
+/*css*/
+#header{
+    background color:gray;
+    width:400px;
+    padding: 0px 20px 0px 0px;
+}
+
+#nav a{
+    text-decoration:none;
+    color:gray;
+}
